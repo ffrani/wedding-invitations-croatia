@@ -1,11 +1,9 @@
 import Gallery2 from '@assets/images/gallery2.jpg';
 import Gallery3 from '@assets/images/gallery3.jpg';
-// import Gallery4 from '@assets/images/gallery4.jpg';
 import Gallery5 from '@assets/images/gallery5.jpg';
 import Gallery7 from '@assets/images/gallery7.jpg';
 import Gallery8 from '@assets/images/gallery8.jpg';
 import Gallery10 from '@assets/images/gallery10.jpg';
-// import Gallery14 from '@assets/images/gallery14.jpg';
 import Gallery19 from '@assets/images/gallery19.jpg';
 import Gallery34 from '@assets/images/gallery34.jpg';
 import Gallery35 from '@assets/images/gallery35.jpg';
