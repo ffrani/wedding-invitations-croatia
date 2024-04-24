@@ -1,0 +1,5 @@
+git/.cache
+/public
+#/node_modules
+*.~lock*
+node_modules
