@@ -1,6 +1,6 @@
 import { css, keyframes } from '@emotion/core';
-import Background from '../../assets/images/woslo10.jpg';
-import BackgroundPhone from '../../assets/images/woslo5.jpg';
+import Background from '../../../src/assets/images/woslo10.jpg';
+import BackgroundPhone from '../../../src/assets/images/woslo5.jpg';
 
 export const styHero = css`
   width: 100%;
