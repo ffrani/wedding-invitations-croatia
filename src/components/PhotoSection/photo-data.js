@@ -8,20 +8,20 @@ import Gallery19 from '@assets/images/gallery19.jpg';
 import Gallery34 from '@assets/images/gallery34.jpg';
 import Gallery35 from '@assets/images/gallery35.jpg';
 
-import Oslo1 from '..//../assets/images/woslo1.jpg';
-import Oslo2 from '..//../assets/images/woslo2.jpg';
-import Oslo3 from '..//../assets/images/woslo5.jpg';
-import Oslo4 from '..//../assets/images/woslo7.jpg';
-import Oslo5 from '..//../assets/images/woslo10.jpg';
-import Oslo6 from '..//../assets/images/woslo12.jpg';
-import Oslo7 from '..//../assets/images/woslo14.jpg';
-import Oslo8 from '..//../assets/images/woslo16.jpg';
-import Oslo9 from '..//../assets/images/woslo24.jpg';
-import Oslo10 from '..//../assets/images/woslo29.jpg';
-import Oslo11 from '..//../assets/images/woslo32.jpg';
-import Oslo12 from '..//../assets/images/woslo33.jpg';
-import Oslo13 from '..//../assets/images/woslo36.jpg';
-import Oslo14 from '..//../assets/images/woslo37.jpg';
+import Oslo1 from '@assets/images/woslo1.jpg';
+import Oslo2 from '@assets/images/woslo2.jpg';
+import Oslo3 from '@assets/images/woslo5.jpg';
+import Oslo4 from '@assets/images/woslo7.jpg';
+import Oslo5 from '@assets/images/woslo10.jpg';
+import Oslo6 from '@assets/images/woslo12.jpg';
+import Oslo7 from '@assets/images/woslo14.jpg';
+import Oslo8 from '@assets/images/woslo16.jpg';
+import Oslo9 from '@assets/images/woslo24.jpg';
+import Oslo10 from '@assets/images/woslo29.jpg';
+import Oslo11 from '@assets/images/woslo32.jpg';
+import Oslo12 from '@assets/images/woslo33.jpg';
+import Oslo13 from '@assets/images/woslo36.jpg';
+import Oslo14 from '@assets/images/woslo37.jpg';
 
 export const photos = [
   {
