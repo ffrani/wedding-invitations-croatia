@@ -1,8 +1,8 @@
 import React, { Fragment } from 'react';
 import { bool } from 'prop-types';
 
-import Bride from '@assets/images/henon-avatar4.jpg';
-import Groom from '@assets/images/filip-avatar1.jpg';
+import Bride from '@assets/images/avatarHenon2.jpg';
+import Groom from '@assets/images/avatarFilip.jpg';
 import { styWrapper } from './styles';
 
 // eslint-disable-next-line import/no-unresolved
@@ -43,7 +43,7 @@ function HelloSection({ isInvitation }) {
               <div className="desc-groom">
                 <h3 className="main-font">Henon</h3>
                 <p className="parent-name parent-name__top">
-                  Roditelji: <br /> Gosp. Ogbazion Hadgu <br /> & <br /> Gđa. Hiwet Hagos
+                  Roditelji: <br /> Mr. Ogbazion Hadgu <br /> & <br /> Mrs. Hiwet Hagos
                 </p>
                 <a href="https://www.instagram.com/henon.h/" target="_blank">
                   <i class="fa-brands fa-instagram" style={{ fontSize: '40px', color: 'white' }}></i>
@@ -62,8 +62,8 @@ function HelloSection({ isInvitation }) {
                 <h3 className="main-font">Filip</h3>
                 <p className="parent-name">
                   Roditelji: <br></br>
-                  Gosp. Tonći Franičević <br />& <br />
-                  Gđa. Marijana Mataga Franičević
+                  Mr. Tonći Franičević <br />& <br />
+                  Mrs. Marijana Mataga Franičević
                 </p>
                 <a href="https://www.instagram.com/flikas22/" target="_blank">
                   <i class="fa-brands fa-instagram" style={{ fontSize: '40px', color: 'white' }}></i>

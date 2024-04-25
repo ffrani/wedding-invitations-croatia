@@ -20,7 +20,6 @@ import Oslo9 from '@assets/images/oslo24.jpg';
 import Oslo10 from '@assets/images/oslo29.jpg';
 import Oslo11 from '@assets/images/oslo32.jpg';
 import Oslo12 from '@assets/images/oslo33.jpg';
-import Oslo13 from '@assets/images/oslo36.jpg';
 import Oslo14 from '@assets/images/oslo37.jpg';
 
 export const photos = [
@@ -33,6 +32,10 @@ export const photos = [
     thumbnail: Oslo2,
   },
   {
+    original: Oslo12,
+    thumbnail: Oslo12,
+  },
+  {
     original: Oslo3,
     thumbnail: Oslo3,
   },
@@ -41,16 +44,28 @@ export const photos = [
     thumbnail: Oslo4,
   },
   {
+    original: Oslo11,
+    thumbnail: Oslo11,
+  },
+  {
     original: Oslo5,
     thumbnail: Oslo5,
   },
   {
-    original: Oslo6,
-    thumbnail: Oslo6,
+    original: Oslo14,
+    thumbnail: Oslo14,
   },
   {
     original: Oslo7,
     thumbnail: Oslo7,
+  },
+  {
+    original: Oslo10,
+    thumbnail: Oslo10,
+  },
+  {
+    original: Oslo6,
+    thumbnail: Oslo6,
   },
   {
     original: Oslo8,
@@ -60,27 +75,6 @@ export const photos = [
     original: Oslo9,
     thumbnail: Oslo9,
   },
-  {
-    original: Oslo10,
-    thumbnail: Oslo10,
-  },
-  {
-    original: Oslo11,
-    thumbnail: Oslo11,
-  },
-  {
-    original: Oslo12,
-    thumbnail: Oslo12,
-  },
-  {
-    original: Oslo13,
-    thumbnail: Oslo13,
-  },
-  {
-    original: Oslo14,
-    thumbnail: Oslo14,
-  },
-
   {
     original: Gallery2,
     thumbnail: Gallery2,
