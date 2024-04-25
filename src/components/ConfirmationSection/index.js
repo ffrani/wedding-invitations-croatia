@@ -23,8 +23,7 @@ function ConfirmationSection({ isInvitation, guestName, codeLink }) {
           <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
             <h2 className="main-font">{`Hvala vam`}</h2>
             <p>
-              samo ste vi mogli naš najljepši i najsvečaniji <br /> dan ispuniti sa toliko <br /> ljubavi, radosti i
-              veselja
+              samo vi možete naš najljepši i najsvečaniji <br /> dan ispuniti s toliko <br /> ljubavi, radosti i veselja
             </p>
             {/* <CustomHr /> */}
             {/* <div>
