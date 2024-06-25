@@ -44,15 +44,16 @@ function WeddingSection({ isInvitation }) {
           <div className="row">
             <div className="col-md-10 col-md-offset-4">
               {/* <WeddingInfoBox
-                title="Ceremony"
-                time="08.00 AM"
-                date="Saturday, February 10th 2024"
-                description="Stanseveien 6, 0975 Oslo"
+                title="Skup svatova"
+                time="19:00"
+                date="Subota, 27. srpanj 2024"
+                description="Mala rika"
                 location1="Get Loaction"
               /> */}
               <WeddingInfoBox
                 title="Proslava"
-                time="20:00"
+                time="Večera u 20:00"
+                time2="Skup ispred restorana ''Žabac'' u 19:30"
                 date="Subota, 27. srpanj 2024."
                 description="Badžula 1, 20353 Badžula"
                 location2="Get Location"

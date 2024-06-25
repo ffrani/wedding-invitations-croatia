@@ -1,7 +1,7 @@
 import React from 'react';
 import { string } from 'prop-types';
 
-function WeddingInfoBox({ title, date, time, description, location1, location2 }) {
+function WeddingInfoBox({ title, date, time, description, location1, location2, time2 }) {
   return (
     <div className="col-md-6 col-sm-6 text-center">
       <div className="event-wrap">
@@ -9,6 +9,10 @@ function WeddingInfoBox({ title, date, time, description, location1, location2 }
         <div className="event-col">
           <i className="icon-calendar"></i>
           <span>{date}</span>
+        </div>
+        <div className="event-col">
+          <i className="icon-clock"></i>
+          <span>{time2}</span>
         </div>
         <div className="event-col">
           <i className="icon-clock"></i>
