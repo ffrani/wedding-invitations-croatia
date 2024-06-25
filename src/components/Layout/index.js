@@ -26,6 +26,10 @@ function MainLayout({ children }) {
         {/* <meta property="og:url" content="https://arin.miftahussalam.com" /> */}
         {/* <meta property="og:site_name" content="The Wedding of Arin & Miftah" /> */}
         {/* <meta property="og:description" content={META_DESCRIPTION} /> */}
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1, minimum-scale=1"
+        ></meta>
         <meta property="og:type" content="website" />
         {/* <meta name="twitter:title" content="The Wedding of Arin & Miftah" /> */}
         {/* <meta name="twitter:description" content={META_DESCRIPTION} /> */}
