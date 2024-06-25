@@ -14,8 +14,8 @@ function FooterSection({ isInvitation }) {
                 </small>
                 <small className="block" style={{ color: 'white' }}>
                   Song by{' '}
-                  <a href="https://www.youtube.com/watch?v=BEeZnqbre6I" target="_blank" rel="noreferrer">
-                    Bruno Mars - Marry you
+                  <a href="https://www.youtube.com/watch?v=eFnqj97w_rg" target="_blank" rel="noreferrer">
+                    Alexander Stewart - Life At First Sight
                   </a>
                 </small>
                 {/* <small className="block">

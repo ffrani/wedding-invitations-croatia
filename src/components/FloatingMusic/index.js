@@ -1,7 +1,7 @@
 import React, { Fragment, useState } from 'react';
 import IconMusic from '@assets/images/vinyl.png';
 // import IconMusicStop from '@assets/images/music-stop-icon.png';
-import MusicBacksound from '@assets/music/Bruno-Mars-Marry-You.mp3';
+import MusicBacksound from '@assets/music/Alexander Stewart - Life At First Sight.mp3';
 
 import { styMusicFloating } from './styles';
 
